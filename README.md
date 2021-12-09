@@ -1,5 +1,5 @@
 ### Income_Prediction_Model
-#### Goal: Prediction whether a person makes over 50K a year
+#### Goal: Predicting whether a person makes over 50K a year
 - This data was extracted from the census bureau database found at
  http://www.census.gov/ftp/pub/DES/www/welcome.html
 - Dataset is part of the UCI ML datasets which can be found
