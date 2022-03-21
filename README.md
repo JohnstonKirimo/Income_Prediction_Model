@@ -6,7 +6,7 @@
  at https://archive.ics.uci.edu/ml/datasets/Adult
  - Data has general statistics about the US adult population
  - Extracted from the 1994 Census database
- - Prediction task is to determine whether a person makes over 50K a year.
+ - Task is to predict whether a person makes over 50K a year.
 
 
 ##### UCI dataset link: https://archive.ics.uci.edu/ml/datasets.php?task=cla&sort=nameUp&view=table
